@@ -1,7 +1,7 @@
 Cordova Plugin PayPalSDK
 =============
 
-Type script definition for [Mobile SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
+Type script definition for [PayPal-Cordova-Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
 
 Usage
 -----
